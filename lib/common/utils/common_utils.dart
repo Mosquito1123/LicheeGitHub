@@ -183,6 +183,7 @@ class CommonUtils {
       Colors.amber,
       Colors.blueGrey,
       Colors.deepOrange,
+      Colors.deepPurple
     ];
   }
 

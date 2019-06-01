@@ -72,6 +72,7 @@ abstract class GSYStringBase {
   String home_theme_5;
 
   String home_theme_6;
+  String home_theme_7;
 
   String login_username_hint_text;
 

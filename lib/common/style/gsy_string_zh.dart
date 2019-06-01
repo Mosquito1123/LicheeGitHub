@@ -6,10 +6,10 @@ import 'package:gsy_github_app_flutter/common/style/gsy_string_base.dart';
  */
 class GSYStringZh extends GSYStringBase {
   @override
-  String welcomeMessage = "Welcome To Flutter";
+  String welcomeMessage = "欢迎来到GuavaGitHub";
 
   @override
-  String app_name = "GSYGithubAppFlutter";
+  String app_name = "GuavaGitHub";
 
   @override
   String app_ok = "确定";
@@ -70,11 +70,11 @@ class GSYStringZh extends GSYStringBase {
   @override
   String home_change_theme = "切换主题";
   @override
-  String home_language_default= "默认";
+  String home_language_default = "默认";
   @override
-  String home_language_zh= "中文";
+  String home_language_zh = "中文";
   @override
-  String home_language_en= "English";
+  String home_language_en = "English";
 
   @override
   String home_theme_default = "默认主题";
@@ -90,7 +90,8 @@ class GSYStringZh extends GSYStringBase {
   String home_theme_5 = "主题5";
   @override
   String home_theme_6 = "主题6";
-
+  @override
+  String home_theme_7 = "主题7";
   @override
   String login_username_hint_text = "请输入github用户名";
   @override
